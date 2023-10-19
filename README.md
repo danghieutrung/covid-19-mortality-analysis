@@ -1,8 +1,8 @@
-# COVID-19 Deaths Analysis and Forecast for Future Ventilators and ICU Beds Needed
+# COVID-19 Mortality Analysis and Forecast for Future Ventilators and ICU Beds Needed
 
 ## Results
 
-- Visualized data and identified factors related to the spike in COVID-19 deaths
+- Visualized data and identified factors related to the spike in COVID-19 mortalities
 
 - Developed ML models to forecast the number of ventilators and ICU beds needed
 
